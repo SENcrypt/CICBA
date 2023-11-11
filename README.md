@@ -1,2 +1,2 @@
 # CICBA
-Deployment Link: 
+Deployment Link: https://sencrypt.github.io/CICBA/
